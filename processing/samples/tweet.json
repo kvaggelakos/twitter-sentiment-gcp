@@ -1,0 +1,399 @@
+{
+  "created_at": "Fri Mar 16 15:37:32 +0000 2018",
+  "id": 974671012439576600,
+  "id_str": "974671012439576576",
+  "text": "RT @Crypt0Whal3: For people who are hating misinformation.  Here is the solution:\n\n1. Follow @LiveCoinWatch\n2. Ignore &amp; Unfollow @CoinMarke…",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 974667548406018000,
+    "id_str": "974667548406018048",
+    "name": "joni collias",
+    "screen_name": "jonicollias3",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 41,
+    "listed_count": 0,
+    "favourites_count": 4,
+    "statuses_count": 6,
+    "created_at": "Fri Mar 16 15:23:46 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/974668300092366848/8naG2egf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/974668300092366848/8naG2egf_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Mar 09 16:48:36 +0000 2018",
+    "id": 972152181406224400,
+    "id_str": "972152181406224384",
+    "text": "For people who are hating misinformation.  Here is the solution:\n\n1. Follow @LiveCoinWatch\n2. Ignore &amp; Unfollow… https://t.co/bOjFalnCHD",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 948377657900699600,
+      "id_str": "948377657900699648",
+      "name": "-",
+      "screen_name": "Crypt0Whal3",
+      "location": null,
+      "url": "http://www.akyumen.com/default-item/holofone/",
+      "description": "Holder and believer of $ECA $Zero $Photon $EXRN $XBL and many more cryptocurrencies.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 56,
+      "friends_count": 64,
+      "listed_count": 1,
+      "favourites_count": 74,
+      "statuses_count": 139,
+      "created_at": "Wed Jan 03 02:17:08 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "nl",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/959429477632823298/9J0vfysg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/959429477632823298/9J0vfysg_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "For people who are hating misinformation.  Here is the solution:\n\n1. Follow @LiveCoinWatch\n2. Ignore &amp; Unfollow @CoinMarketCap\n\nThey are playing games and @LiveCoinWatch is winning. \n\n#currency #ico #btc #ETH #BCH #BCC #crypto #bitcoin #Ethereum #altcoins #blockchain #airdrops https://t.co/Hmg3aLmQgx",
+      "display_text_range": [
+        0,
+        281
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "currency",
+            "indices": [
+              188,
+              197
+            ]
+          },
+          {
+            "text": "ico",
+            "indices": [
+              198,
+              202
+            ]
+          },
+          {
+            "text": "btc",
+            "indices": [
+              203,
+              207
+            ]
+          },
+          {
+            "text": "ETH",
+            "indices": [
+              208,
+              212
+            ]
+          },
+          {
+            "text": "BCH",
+            "indices": [
+              213,
+              217
+            ]
+          },
+          {
+            "text": "BCC",
+            "indices": [
+              218,
+              222
+            ]
+          },
+          {
+            "text": "crypto",
+            "indices": [
+              223,
+              230
+            ]
+          },
+          {
+            "text": "bitcoin",
+            "indices": [
+              231,
+              239
+            ]
+          },
+          {
+            "text": "Ethereum",
+            "indices": [
+              240,
+              249
+            ]
+          },
+          {
+            "text": "altcoins",
+            "indices": [
+              250,
+              259
+            ]
+          },
+          {
+            "text": "blockchain",
+            "indices": [
+              260,
+              271
+            ]
+          },
+          {
+            "text": "airdrops",
+            "indices": [
+              272,
+              281
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "LiveCoinWatch",
+            "name": "Live Coin Watch",
+            "id": 923280634822447100,
+            "id_str": "923280634822447104",
+            "indices": [
+              76,
+              90
+            ]
+          },
+          {
+            "screen_name": "CoinMarketCap",
+            "name": "CoinMarketCap",
+            "id": 2260491445,
+            "id_str": "2260491445",
+            "indices": [
+              116,
+              130
+            ]
+          },
+          {
+            "screen_name": "LiveCoinWatch",
+            "name": "Live Coin Watch",
+            "id": 923280634822447100,
+            "id_str": "923280634822447104",
+            "indices": [
+              159,
+              173
+            ]
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 972152167980261400,
+            "id_str": "972152167980261376",
+            "indices": [
+              282,
+              305
+            ],
+            "media_url": "http://pbs.twimg.com/media/DX3HPwAW4AAjMmd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DX3HPwAW4AAjMmd.jpg",
+            "url": "https://t.co/Hmg3aLmQgx",
+            "display_url": "pic.twitter.com/Hmg3aLmQgx",
+            "expanded_url": "https://twitter.com/Crypt0Whal3/status/972152181406224384/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 905,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 513,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 905,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 972152167980261400,
+            "id_str": "972152167980261376",
+            "indices": [
+              282,
+              305
+            ],
+            "media_url": "http://pbs.twimg.com/media/DX3HPwAW4AAjMmd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DX3HPwAW4AAjMmd.jpg",
+            "url": "https://t.co/Hmg3aLmQgx",
+            "display_url": "pic.twitter.com/Hmg3aLmQgx",
+            "expanded_url": "https://twitter.com/Crypt0Whal3/status/972152181406224384/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 905,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 513,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 905,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 2,
+    "reply_count": 6,
+    "retweet_count": 1405,
+    "favorite_count": 75,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/bOjFalnCHD",
+          "expanded_url": "https://twitter.com/i/web/status/972152181406224384",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "LiveCoinWatch",
+          "name": "Live Coin Watch",
+          "id": 923280634822447100,
+          "id_str": "923280634822447104",
+          "indices": [
+            76,
+            90
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Crypt0Whal3",
+        "name": "-",
+        "id": 948377657900699600,
+        "id_str": "948377657900699648",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "LiveCoinWatch",
+        "name": "Live Coin Watch",
+        "id": 923280634822447100,
+        "id_str": "923280634822447104",
+        "indices": [
+          93,
+          107
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1521214652534"
+}

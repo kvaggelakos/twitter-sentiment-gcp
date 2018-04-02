@@ -1,0 +1,17 @@
+entrypoint: python main.py
+env: flex
+runtime: python
+manual_scaling:
+  instances: 1
+resources:
+  cpu: 1
+  memory_gb: 0.5
+  disk_size_gb: 10
+env_variables: # Will be filled out on deploy
+  PROJECT_ID: twitter-sentiment-198214
+  PUBSUB_TOPIC: tweets
+  TWITTER_ACCESS_TOKEN: "${TWITTER_ACCESS_TOKEN}"
+  TWITTER_ACCESS_SECRET: "${TWITTER_ACCESS_SECRET}"
+  TWITTER_CONSUMER_KEY: "${TWITTER_CONSUMER_KEY}"
+  TWITTER_CONSUMER_SECRET: "${TWITTER_CONSUMER_SECRET}"
+

@@ -1,0 +1,108 @@
+[
+  {
+    "name": "created_at",
+    "type": "TIMESTAMP"
+  },
+  {
+    "name": "id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "id_str",
+    "type": "STRING"
+  },
+  {
+    "name": "text",
+    "type": "STRING"
+  },
+  {
+    "name": "quote_count",
+    "type": "INTEGER"
+  },
+  {
+    "name": "reply_count",
+    "type": "INTEGER"
+  },
+  {
+    "name": "retweet_count",
+    "type": "INTEGER"
+  },
+  {
+    "name": "favorite_count",
+    "type": "INTEGER"
+  },
+  {
+    "name": "lang",
+    "type": "STRING"
+  },
+  {
+    "name": "extended_tweet",
+    "type": "RECORD",
+    "fields": [
+      {
+        "name": "full_text",
+        "type": "STRING"
+      }
+    ]
+  },
+  {
+    "name": "sentiment",
+    "type": "RECORD",
+    "fields": [
+      {
+        "name": "score",
+        "type": "FLOAT64"
+      },
+      {
+        "name": "magnitude",
+        "type": "FLOAT64"
+      }
+    ]
+  },
+  {
+    "name": "user",
+    "type": "RECORD",
+    "fields": [
+      {
+        "name": "id",
+        "type": "INTEGER"
+      },
+      {
+        "name": "name",
+        "type": "STRING"
+      },
+      {
+        "name": "screen_name",
+        "type": "STRING"
+      },
+      {
+        "name": "created_at",
+        "type": "TIMESTAMP"
+      },
+      {
+        "name": "verified",
+        "type": "BOOLEAN"
+      },
+      {
+        "name": "followers_count",
+        "type": "INTEGER"
+      },
+      {
+        "name": "friends_count",
+        "type": "INTEGER"
+      },
+      {
+        "name": "favourites_count",
+        "type": "INTEGER"
+      },
+      {
+        "name": "statuses_count",
+        "type": "INTEGER"
+      },
+      {
+        "name": "lang",
+        "type": "STRING"
+      }
+    ]
+  }
+]
