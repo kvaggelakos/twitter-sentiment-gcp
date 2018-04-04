@@ -4,6 +4,8 @@ This is a project made for fun to see how hard it would be to analyze tweets in 
 
 ## Result
 
+This is just a simple dashboard to illustrate results.
+
 ![Demo](./screenshots/data-studio.png "Demo")
 
 ## Architecture
